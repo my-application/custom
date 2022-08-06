@@ -194,7 +194,7 @@ kubectl get service my-first-service -o yaml
 ```
 # Get all Objects in default namespace
 kubectl get all
-
+#working on file
 # Delete Services
 kubectl delete svc my-first-service
 kubectl delete svc my-first-service2
